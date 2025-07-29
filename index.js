@@ -38,9 +38,10 @@ app.post("/bfhl", (req, res) => {
 
     const response = {
         is_success: true,
-        user_id: "john_doe_17091999", // Replace with your name and DOB
-        email: "john@xyz.com",        // Replace with your email
-        roll_number: "ABCD123",       // Replace with your roll number
+        user_id: "vanshika_takkar", 
+        email: "vanshika2504.be22@chitkara.edu.in",        
+        roll_number: "2210992504",   
+        DOB_DDMMYYYY : "23/04/2004",
         odd_numbers,
         even_numbers,
         alphabets,
